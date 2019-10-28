@@ -247,7 +247,7 @@ Pennock (2007) про Curation LIfecycle Model: підхід життєвого 
 
 -Надійне повторне використання цифрових матеріалів можливе тільки в тому випадку, якщо вони оброблені таким чином, щоб зберегти їх достовірність та цілісність.
 
-![Зображення](https://drive.google.com/file/d/1y1YYtqLsmrm5UDfutnUEUmgyozCmk06U/view?usp=sharing)
+![Зображення](https://blogs.ntu.edu.sg/lib-datamanagement/files/2015/11/Library-Research-Data-Lifecycle-27gd3u3.jpg)
 
 ## DCC Curation Lifecycle Model
 
